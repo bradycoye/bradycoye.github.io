@@ -3,8 +3,8 @@ title:       Brady Coye
 email:       bradycoye@bradycoye.com
 author:      Brady Coye
 description: "Software Developer"
-baseurl:     "bradycoye.com"
-url:         ""
+baseurl:     ""
+url:         "http://bradycoye.com"
 date_format: "%b %-d, %Y"
 
 # Google services
