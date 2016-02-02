@@ -5,8 +5,6 @@ date:       2016-02-02 2:23:00
 summary:    Exploring Parse server implementations and alternative mBaaS providers
 categories: iOS Parse Docker
 ---
-
-# So you got Parsed?
 ***
 
 On January 28 Parse announced the end of their popular BaaS(backend as a service). This forces developers to find an alternative solution for push notifications, data storage, user verification, etc. Luckily Parse is providing a path to running your own Parse-compatible service. However, Parse offered some services not supported in the open source project so choosing whether to use another Baas or to configure the backend manually can be difficult. The best solution depends mainly on the complexity, scale, and services used in your application. [This](https://github.com/relatedcode/ParseAlternatives) should help get you started.
@@ -14,10 +12,10 @@ On January 28 Parse announced the end of their popular BaaS(backend as a service
 
 
 
-##Using a Parse Server (High Complexity)
+## Using a Parse Server (High Complexity)
 Parse provided a [well documented path](https://parse.com/docs/server/guide) to help developers migrate to a self hosted Node.js service. If you prefer not to do any backend management at all and would rather rewrite your application using another provided SDK, skip to the next section.
 
-####DIY [Parse Server](https://github.com/ParsePlatform/parse-server):
+#### DIY [Parse Server](https://github.com/ParsePlatform/parse-server):
 
 * Configurable services that host Node.js applications:
 	* [IBM Bluemix](https://console.ng.bluemix.net/): works well with MongoHQ
@@ -33,7 +31,7 @@ Parse provided a [well documented path](https://parse.com/docs/server/guide) to 
 	* [Google App Engine & MongoLab](https://medium.com/google-cloud/deploying-parse-server-to-google-app-engine-6bc0b7451d50)
 
 
-####Parse & Containerization:
+#### Parse & Containerization:
 Another (and more complex) route would be to use containerization. This option is is optimal for apps with scale.
 
 * [Instainer](http://beta.instainer.com/): easiest containerization option to test concept
