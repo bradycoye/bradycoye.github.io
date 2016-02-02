@@ -16,8 +16,9 @@ Parse provided a [well documented path](https://parse.com/docs/server/guide) to 
 #### DIY [Parse Server](https://github.com/ParsePlatform/parse-server):
 
 * Configurable services that host Node.js applications:
-	* [IBM Bluemix](https://console.ng.bluemix.net/): works well with MongoHQ
-	* [Google App Engine](https://cloud.google.com/nodejs/): works well with MongoLab
+	* [IBM Bluemix](https://console.ng.bluemix.net/): tutorial with MongoHQ
+	* [Google App Engine](https://cloud.google.com/nodejs/): tutorial with MongoLab
+	* [Microsoft Azure](https://azure.microsoft.com/en-us/): includes cloud code & push integration
 
 * MongoDB manage hosting management platforms:
 	* [MongoLab](https://mongolab.com)
@@ -25,8 +26,10 @@ Parse provided a [well documented path](https://parse.com/docs/server/guide) to 
 	* [ObjectRocket](http://objectrocket.com/mongodb/)
 
 * Integrated Tutorials
-	* [IDM Bluemix & MongoHQ](https://console.ng.bluemix.net/)
-	* [Google App Engine & MongoLab](https://medium.com/google-cloud/deploying-parse-server-to-google-app-engine-6bc0b7451d50)
+	* [IDM Bluemix](https://console.ng.bluemix.net/)
+	* [Google App Engine](https://medium.com/google-cloud/deploying-parse-server-to-google-app-engine-6bc0b7451d50)
+	* [Microsoft Azure](https://azure.microsoft.com/en-us/blog/azure-welcomes-parse-developers/)
+
 
 
 #### Parse & Containerization:
