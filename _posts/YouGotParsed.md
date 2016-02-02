@@ -3,7 +3,7 @@ layout:     post
 title:      So you got Parsed?
 date:       2016-02-02 2:23:00
 summary:    Exploring Parse Server Hosting and alternatives mBaaS providers
-categories: iOS Parse Docker 
+categories: iOS Parse Docker
 ---
 
 # So you got Parsed?
@@ -50,7 +50,7 @@ This option requires rewriting all of the Parse SDK logic in your application. I
 
 * [Fabric](https://get.fabric.io/): twitter's framework
 * [DeepStream](http://deepstream.io/): similar to Parse
-* [Kinto](http://kinto.readthedocs.org/en/latest/): lightweight json storage services
+* [Kinto](http://kinto.readthedocs.org/en/latest/): lightweight JSON storage services
 * [Firebase](https://www.firebase.com/): backed by Google
 * [Couchbase Mobile](http://www.couchbase.com/)
 * [Kinvey](http://www.kinvey.com/)
