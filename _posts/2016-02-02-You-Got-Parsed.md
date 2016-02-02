@@ -2,7 +2,7 @@
 layout:     post
 title:      So you got Parsed?
 date:       2016-02-02 2:23:00
-summary:    Exploring Parse Server Hosting and alternatives mBaaS providers
+summary:    Exploring Parse-server implementations and alternatives mBaaS providers
 categories: iOS Parse Docker
 ---
 
