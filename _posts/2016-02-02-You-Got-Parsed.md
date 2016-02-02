@@ -5,9 +5,7 @@ date:       2016-02-02 2:23:00
 summary:    Exploring Parse server implementations and alternative mBaaS providers
 categories: iOS Parse Docker
 ---
-***
-
-On January 28 Parse announced the end of their popular BaaS(backend as a service). This forces developers to find an alternative solution for push notifications, data storage, user verification, etc. Luckily Parse is providing a path to running your own Parse-compatible service. However, Parse offered some services not supported in the open source project so choosing whether to use another Baas or to configure the backend manually can be difficult. The best solution depends mainly on the complexity, scale, and services used in your application. [This](https://github.com/relatedcode/ParseAlternatives) should help get you started.
+On January 28, Parse announced the end of their popular BaaS(backend as a service). This forces developers to find an alternative solution for push notifications, data storage, user verification, etc. Luckily, Parse is providing a path to running your own Parse-compatible service. However, Parse offered some services not supported in the open source project so choosing whether to use another BaaS or to configure the backend manually can be difficult. The best solution depends mainly on the complexity, scale, and services used in your application. [This](https://github.com/relatedcode/ParseAlternatives) should help get you started.
 
 
 
