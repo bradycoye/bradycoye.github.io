@@ -19,7 +19,7 @@ Parse provided a [well documented path](https://parse.com/docs/server/guide) to 
 	* [IBM Bluemix](https://console.ng.bluemix.net/): tutorial with MongoHQ
 	* [Google App Engine](https://cloud.google.com/nodejs/): tutorial with MongoLab
 	* [Microsoft Azure](https://azure.microsoft.com/en-us/): includes cloud code & push integration
-	* [Amazon Web Services](https://aws.amazon.com/elasticbeanstalk/)
+	* [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 
 * MongoDB manage hosting management platforms:
 	* [MongoLab](https://mongolab.com)
