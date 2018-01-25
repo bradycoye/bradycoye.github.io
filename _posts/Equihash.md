@@ -2,8 +2,13 @@
 layout:     post
 title:      Proof of Work Security at Scale: Equihash Goals Revisited
 date:       2016-02-02 2:23:00
+<<<<<<< HEAD
 summary:    Zcash team PoW security goals examined and ASIC resistance feasibility
 categories:
+=======
+summary:    Zcash team PoW security goals examined. ASIC resistance feasibility
+categories: ProofofWork zcash bitcoin
+>>>>>>> f15c481efe1aaaef71427964bb55ead2fd1acde9
 ---
 
 ### Proof of Work Security at Scale: Equihash Goals Revisited
